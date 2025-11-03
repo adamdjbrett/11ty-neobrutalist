@@ -1,7 +1,7 @@
 # 11ty-neobrutalist
 
 
-A 11ty starter with neobrutalist develop by [Adam Dj Brett](https://adamdjbrett.com)
+A 11ty starter with neobrutalist developed by [Adam Dj Brett](https://adamdjbrett.com)
 
 ![Neo Brutal](brutal.jpg)
 
